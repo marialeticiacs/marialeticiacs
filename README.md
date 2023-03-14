@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi👋, I'm Maria Letícia</h1>
 <h3 align="center">I'm majoring in Big Data for Business</h3>
 
-- 🌱 I’m currently learning **GitHub, gestão de projetos, programação em banco de dados relacional**
+- 🌱 I’m currently learning **GitHub, project management, relational database programming**
 
-- 💬 Ask me about **dados, engenharia de dados**
+- 💬 Ask me about **data, data engineering**
 
 - 📫 How to reach me: **marialeticia0306@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marialeticiacs&show_icons=true&theme=dracula&locale=en&layout=compact" alt="marialeticiacs" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=marialeticiacs&show_icons=true&theme=dracula&locale=en&layout=compact" alt="marialeticiacs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marialeticiacs&show_icons=true&theme=dracula&locale=en" alt="marialeticiacs" /></p>
 
