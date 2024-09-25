@@ -30,7 +30,6 @@ Trabalho com os seguintes bancos de dados, relacionais e não relacionais:
 ### ⚙️ Deploy & Automação
 Minhas ferramentas preferidas para automação e deployment:
 
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/docs)
 [![CI/CD](https://img.shields.io/badge/CI/CD-009688?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
 
 ---
@@ -39,15 +38,13 @@ Minhas ferramentas preferidas para automação e deployment:
 Plataformas de nuvem que estou utilizando e explorando:
 
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pt-br/azure/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://devcenter.heroku.com/)
 
 ---
 
 ### 📊 Minhas estatísticas no GitHub:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marialeticiacs&show_icons=true&theme=dracula" alt="Github Stats" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marialeticiacs&theme=dracula" alt="Github Streak" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marialeticiacs&show_icons=true&theme=dracula" alt="Github Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marialeticiacs&theme=dracula" alt="Github Streak" width="49%"/>
 </div>
 
 ---
