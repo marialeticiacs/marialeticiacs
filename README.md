@@ -14,8 +14,6 @@ Ferramentas que eu uso e estou sempre aprendendo mais:
 
 [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/home)
 
 ---
 
@@ -46,19 +44,18 @@ Plataformas de nuvem que estou utilizando e explorando:
 
 ---
 
-### 📊 Minhas estatísticas no GitHub
-Aqui estão algumas estatísticas sobre minhas contribuições no GitHub:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialeticiacs&layout=compact)](https://github.com/marialeticiacs?tab=repositories)
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=marialeticiacs&show_icons=true)](https://github.com/marialeticiacs?tab=repositories)
+### 📊 Minhas estatísticas no GitHub:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marialeticiacs&show_icons=true&theme=dracula" alt="Github Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marialeticiacs&theme=dracula" alt="Github Streak">
+</div>
 
 ---
 
 ### 🌐 Vamos nos conectar?
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mleticiacavalcanti)
-[![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marialeticia0306@gmail.com)
+[![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mleticia.cavalcanti@gmail.com)
 
 ---
 
