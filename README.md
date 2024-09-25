@@ -1,41 +1,65 @@
-<!--
-**marialeticiacs/marialeticiacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌸 Olá! Eu sou Maria Letícia
+Estudante de **Big Data para Negócios**, apaixonada por **dados, tecnologia**, e pela **automação de processos**. Atualmente, estou focada em **DevOps** e **Bancos de Dados**, explorando formas de otimizar e automatizar soluções em ambientes complexos. Aqui você vai encontrar meus projetos e contribuições enquanto sigo minha jornada de aprendizado e inovação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi👋, I'm Maria Letícia</h1>
-<h3 align="center">I'm majoring in Big Data for Business</h3>
+### 🎓 Graduação
+- **Big Data para Negócios** - Faculdade de Tecnologia do Ipiranga (FATEC)
+- **Estagiária em Desenvolvimento de Sistemas** - Foco em suporte, desenvolvimento e automação de processos com C#, .NET e DevOps
 
-- 🌱 I’m currently learning **GitHub, project management, relational database programming**
+---
 
-- 💬 Ask me about **data, data engineering**
+### 💻 Tecnologias & Ferramentas
+Ferramentas que eu uso e estou sempre aprendendo mais:
 
-- 📫 How to reach me: **marialeticia0306@gmail.com**
-<!--
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=marialeticiacs&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="marialeticiacs" /></p>
--->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marialeticiacs&show_icons=true&theme=radical&locale=en&layout=compact" alt="marialeticiacs" /></p>
-<!--
-![marialeticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=marialeticiacs&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialeticiacs&theme=radical)](https://github.com/marialeticiacs/github-readme-stats)
--->
+[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/home)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.neo4j.br" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
- 
-##
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maria-letícia-00637423b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria-letícia-00637423b" height="30" width="40" /></a>
-<a href="https://instagram.com/mleletss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mari_lehh" height="30" width="40" /></a>
-</p>
+### 💾 Bancos de Dados
+Trabalho com os seguintes bancos de dados, relacionais e não relacionais:
+
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+[![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/en-us/sql/sql-server/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+---
+
+### ⚙️ Deploy & Automação
+Minhas ferramentas preferidas para automação e deployment:
+
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/docs)
+[![CI/CD](https://img.shields.io/badge/CI/CD-009688?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
+
+---
+
+### ☁️ Cloud Platforms
+Plataformas de nuvem que estou utilizando e explorando:
+
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pt-br/azure/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://devcenter.heroku.com/)
+
+---
+
+### 📊 Minhas estatísticas no GitHub
+Aqui estão algumas estatísticas sobre minhas contribuições no GitHub:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialeticiacs&layout=compact)](https://github.com/marialeticiacs?tab=repositories)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=marialeticiacs&show_icons=true)](https://github.com/marialeticiacs?tab=repositories)
+
+---
+
+### 🌐 Vamos nos conectar?
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mleticiacavalcanti)
+[![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marialeticia0306@gmail.com)
+
+---
+
+> "A curiosidade me guia, e os dados e a tecnologia me ajudam a construir soluções inteligentes para problemas reais."
