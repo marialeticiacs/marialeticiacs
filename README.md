@@ -1,11 +1,11 @@
 ## 🌸 Olá! Eu sou Maria Letícia
-Estudante de **Big Data para Negócios**, apaixonada por **dados, tecnologia**, e pela **automação de processos**. Atualmente, estou focada em **DevOps** e **Bancos de Dados**, explorando formas de otimizar e automatizar soluções em ambientes complexos. Aqui você vai encontrar meus projetos e contribuições enquanto sigo minha jornada de aprendizado e inovação.
+Estudante de **Big Data para Negócios**, apaixonada por **dados, tecnologia**, e pela **automação de processos**. Atualmente, estou focada em **DevOps** e **Bancos de Dados**, explorando formas de otimizar e automatizar soluções em ambientes complexos.
 
 ---
 
 ### 🎓 Graduação
 - **Big Data para Negócios** - Faculdade de Tecnologia do Ipiranga (FATEC)
-- **Estagiária em Desenvolvimento de Sistemas** - Foco em suporte, desenvolvimento e automação de processos com C#, .NET e DevOps
+- **Estagiária em Desenvolvimento de Sistemas** - Santos Brasil
 
 ---
 
@@ -42,17 +42,17 @@ Plataformas de nuvem que estou utilizando e explorando:
 ---
 
 ### 📊 Minhas estatísticas no GitHub:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marialeticiacs&show_icons=true&theme=dracula" alt="Github Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marialeticiacs&theme=dracula" alt="Github Streak"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marialeticiacs&show_icons=true&theme=dracula&hide_border=true" alt="Github Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marialeticiacs&theme=dracula&hide_border=true" alt="Github Streak">
+</p>
 
 ---
 
 ### 🌐 Vamos nos conectar?
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mleticiacavalcanti)
-[![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mleticia.cavalcanti@gmail.com)
+[![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mleticia.cavalcantis@gmail.com)
 
 ---
 
