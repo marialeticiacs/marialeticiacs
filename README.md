@@ -3,12 +3,6 @@ Estudante de **Big Data para Negócios**, apaixonada por **dados, tecnologia**, 
 
 ---
 
-### 🎓 Graduação
-- **Big Data para Negócios** - Faculdade de Tecnologia do Ipiranga (FATEC)
-- **Estagiária em Desenvolvimento de Sistemas** - Santos Brasil
-
----
-
 ### 💻 Tecnologias & Ferramentas
 Ferramentas que eu uso e estou sempre aprendendo mais:
 
@@ -60,16 +54,15 @@ Plataformas de nuvem que estou utilizando e explorando:
         <img src="https://github-readme-stats.vercel.app/api?username=marialeticiacs&show_icons=true&theme=dracula&hide_border=true" alt="Github Stats" width="400">
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialeticiacs&layout=compact&theme=dracula" alt="Linguagens Mais Utilizadas" width="400">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=marialeticiacs&theme=dracula&hide_border=true" alt="Github Streak" width="400">
       </td>
     </tr>
   </table>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marialeticiacs&theme=dracula&hide_border=true" alt="Github Streak" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialeticiacs&layout=compact&theme=dracula" alt="Linguagens Mais Utilizadas" width="400">
 </p>
-
 
 ---
 
