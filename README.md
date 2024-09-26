@@ -1,4 +1,4 @@
-## 🌸 Olá! Eu sou Maria Letícia
+## 🌸 Olá! Eu sou a Maria Letícia
 Estudante de **Big Data para Negócios**, apaixonada por **dados, tecnologia**, e pela **automação de processos**. Atualmente, estou focada em **DevOps** e **Bancos de Dados**, explorando formas de otimizar e automatizar soluções em ambientes complexos.
 
 ---
@@ -16,7 +16,18 @@ Ferramentas que eu uso e estou sempre aprendendo mais:
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
+### 🖥️ Linguagens de Programação
+Aqui estão as linguagens com as quais eu trabalho e estou constantemente aprendendo:
 
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Visual Basic](https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+---
 ### 💾 Bancos de Dados
 Trabalho com os seguintes bancos de dados, relacionais e não relacionais:
 
@@ -46,6 +57,9 @@ Plataformas de nuvem que estou utilizando e explorando:
   <img src="https://github-readme-stats.vercel.app/api?username=marialeticiacs&show_icons=true&theme=dracula&hide_border=true" alt="Github Stats" width="49%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marialeticiacs&theme=dracula&hide_border=true" alt="Github Streak" width="49%">
 </p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialeticiacs&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
