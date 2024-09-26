@@ -61,7 +61,7 @@ Plataformas de nuvem que estou utilizando e explorando:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialeticiacs&layout=compact&theme=dracula" alt="Linguagens Mais Utilizadas" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialeticiacs&layout=compact&theme=dracula" alt="Linguagens Mais Utilizadas" width="300">
 </p>
 
 ---
