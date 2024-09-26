@@ -57,17 +57,18 @@ Plataformas de nuvem que estou utilizando e explorando:
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=marialeticiacs&show_icons=true&theme=dracula&hide_border=true" alt="Github Stats" width="400">
+        <img src="https://github-readme-stats.vercel.app/api?username=marialeticiacs&show_icons=true&theme=dracula&hide_border=true" alt="Github Stats" width="300">
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=marialeticiacs&theme=dracula&hide_border=true" alt="Github Streak" width="400">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialeticiacs&layout=compact&theme=dracula" alt="Linguagens Mais Utilizadas" width="300">
       </td>
     </tr>
   </table>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialeticiacs&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marialeticiacs&theme=dracula&hide_border=true" alt="Github Streak" width="400">
+</p>
 
 
 ---
