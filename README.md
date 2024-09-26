@@ -43,8 +43,8 @@ Plataformas de nuvem que estou utilizando e explorando:
 
 ### 📊 Minhas estatísticas no GitHub:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marialeticiacs&show_icons=true&theme=dracula&hide_border=true" alt="Github Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marialeticiacs&theme=dracula&hide_border=true" alt="Github Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=marialeticiacs&show_icons=true&theme=dracula&hide_border=true" alt="Github Stats" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marialeticiacs&theme=dracula&hide_border=true" alt="Github Streak" width="49%">
 </p>
 
 ---
