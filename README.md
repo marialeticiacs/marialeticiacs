@@ -41,7 +41,8 @@ Trabalho com os seguintes bancos de dados, relacionais e não relacionais:
 ### ⚙️ Deploy & Automação
 Minhas ferramentas preferidas para automação e deployment:
 
-[![CI/CD](https://img.shields.io/badge/CI/CD-009688?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
+[![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/pipelines/)
+
 
 ---
 
@@ -49,6 +50,7 @@ Minhas ferramentas preferidas para automação e deployment:
 Plataformas de nuvem que estou utilizando e explorando:
 
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pt-br/azure/)
+[![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
 
 ---
 
