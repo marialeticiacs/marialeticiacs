@@ -5,7 +5,7 @@ Estudante de **Big Data para Negócios**. Atualmente, estou focada em **DevOps**
 
 ### 🎓 Graduação
 - **Big Data para Negócios** - Faculdade de Tecnologia do Ipiranga (FATEC)
-- **Estagiária em Desenvolvimento de Sistemas** - Santos Brasil
+- **Analista de Sistemas Jr.** - Santos Brasil
 
 ---
 
