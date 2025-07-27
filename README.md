@@ -1,5 +1,5 @@
 ## 🌸 Olá! Eu sou a Maria Letícia
-Estudante de **Big Data para Negócios**. Atualmente, estou focada em **DevOps** e **Bancos de Dados**, explorando formas de otimizar e automatizar soluções.
+Formada em **Big Data para Negócios**. Atualmente, estou focada em **DevOps** e **Bancos de Dados**, explorando formas de otimizar e automatizar soluções.
 
 ---
 
