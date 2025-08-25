@@ -5,6 +5,7 @@ Formada em **Big Data para Negócios**. Atualmente, estou focada em **DevOps** e
 
 ### 🎓 Graduação
 - **Big Data para Negócios** - Faculdade de Tecnologia do Ipiranga (FATEC)
+- **Pós Graduação em DevOps e Arquitetura Cloud** - FIAP (Em andamento)
 - **Analista de Sistemas Jr.** - Santos Brasil
 
 ---
