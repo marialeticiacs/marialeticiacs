@@ -27,7 +27,7 @@ DevOps & Cloud Architect. Projetar soluções que unem resiliência operacional 
 ### 💼 Experiência & Educação
 - 🎓 **Pós-Graduação em DevOps e Arquitetura Cloud** - FIAP (Em andamento)
 - 🎓 **Graduação em Big Data para Negócios** - FATEC Ipiranga
-- 🏢 **Analista de Sistemas Pleno.** - Santos Brasil
+- 🏢 **Analista de Sistemas Pleno** - Santos Brasil
 
 ---
 
